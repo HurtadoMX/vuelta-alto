@@ -81,7 +81,7 @@ export const Experience = () => {
           curvePoints[4].z - 12
         ),
         title: "Rendimiento Web",
-        subtitle: ``,
+        subtitle: `Optimizando la velocidad y la eficiencia de las aplicaciones web con técnicas de vanguardia en codificación y pruebas.`,
       },
     ];
   }, []);
